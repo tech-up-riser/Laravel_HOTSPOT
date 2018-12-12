@@ -1,0 +1,23 @@
+@media screen and (max-width: 812px) {
+    .content-wrapper {
+        padding: 0px;
+    }
+
+    .w-100 {
+        margin: 0px;
+    }
+
+    .mx-auto {
+        padding: 0px;
+    }
+
+    .promotion-img {
+        width: 343px !important;
+    }
+}
+
+@media screen and (max-width: 812px) {
+    .promotion-img {
+        width: 288px !important;
+    }
+}
